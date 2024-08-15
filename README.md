@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with NLP.
 - 💬 Ask me about machine learning and sklearn.
 - 📫 How to reach me: anadikulkarni@gmail.com.
-- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm a classics literature aficionado. 
 
 ## Tech Stack
