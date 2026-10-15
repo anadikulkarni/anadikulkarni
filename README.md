@@ -2,7 +2,7 @@
 
 # Anadi Kulkarni
 
-**Data analyst and storyteller.** I find the stories in business data, then build the tools that help management act on it.
+Data analyst and storyteller. I find the stories in business data, then build the tools that help management act on it.
 
 [LinkedIn](https://www.linkedin.com/in/anadikulkarni/) · [Email](mailto:anadikulkarni@gmail.com) · Pune, India
 
@@ -20,9 +20,9 @@ What I enjoy most is the moment a chart makes obvious what a table of numbers ha
 
 ## My Work at Nilon's
 
-| 30+ | 7 | 80,000+ | 2 hours | 88% |
+| 30+ | 7 | 80,000+ | 20 hours | 88% |
 | :-: | :-: | :-: | :-: | :-: |
-| Tableau dashboards in production | departments served | retailers reached on WhatsApp | of manual reporting automated, every working day | accuracy predicting distributor purchases |
+| Tableau dashboards in production | departments served | retailers reached on WhatsApp | of manual reporting automated per week | accuracy predicting distributor purchases |
 
 ## Selected Work
 
@@ -67,13 +67,17 @@ A full-stack learning portal that turns any YouTube playlist into an AI-assisted
 
 ## Intellectual Interests
 
-- **History and the classics.** Between them, Herodotus and Thucydides describe my job: tell a story people remember, and get it right.
-- ***Animal Farm*** is my favourite book since I read it age 12. A story that works on the literal layer, but also invites you to dig deeper to uncover even greater insights. In a way, it perfectly represents the mission of the best data analysts. 
-- **The history of ideas.** I consider the history of ideas to be as important if not more than political and military history. Tracing the history of how humans see ourselves and our world goes a long way towards explaining how we behave as individuals and as a community. One of my favourite examples of this is Earthrise, a photograph from Apollo 8, the profound emotional impact it had on people, and how it changed how we saw the world and our beliefs about our place in the universe.
-- **Fantasy worlds built in loving detail** My love for literature manifests best when I dig deep into my favourite genre: high fantasy. I love how digging deeper into things far from modernity, historical settings, magic, and other worlds manages to reveal truths about ourselves and our societies in the most interesting ways. 
+- **Literature** 
+*Animal Farm* is my favourite book since I read it age 12. A story that works on the literal layer, but also invites you to dig deeper to uncover even greater insights. In a way, it perfectly represents the mission of the best data analysts. 
+- **The History of Ideas** 
+I consider the history of ideas to be as important if not more than political and military history. Tracing the history of how humans see ourselves and our world goes a long way towards explaining how we behave as individuals and as a community. One of my favourite examples of this is Earthrise, a photograph from Apollo 8, the profound emotional impact it had on people, and how it changed how we saw the world and our beliefs about our place in the universe.
+- **The Classics** 
+Between them, Herodotus and Thucydides describe my job: tell a story people remember, and get it right.
+- **Fantasy Fiction** 
+My love for literature manifests best when I dig deep into my favourite genre: high fantasy. I love how digging deeper into things far from modernity, historical settings, magic, and other worlds manages to reveal truths about ourselves and our societies in the most interesting ways. 
 
-## Get in touch
+## Get in Touch
 
 Happy to talk about data storytelling, data visualizations that change decisions, or simply a fantastic book.
 
-[LinkedIn](https://www.linkedin.com/in/anadikulkarni/) · [anadikulkarni@gmail.com](mailto:anadikulkarni@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anadikulkarni/) · [Email Me](mailto:anadikulkarni@gmail.com)
