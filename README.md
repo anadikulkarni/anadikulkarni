@@ -20,11 +20,13 @@ What I enjoy most is the moment a chart makes obvious what a table of numbers ha
 
 ## My Work at Nilon's
 
+### Overview
+
 | 30+ | 7 | 80,000+ | 20 hours | 88% |
 | :-: | :-: | :-: | :-: | :-: |
 | Tableau dashboards in production | departments served | retailers reached on WhatsApp | of manual reporting automated per week | accuracy predicting distributor purchases |
 
-## Selected Work
+### Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
