@@ -41,6 +41,7 @@ What I enjoy most is the moment a chart makes obvious what a table of numbers ha
 
 ## Professional History
 
+| --- | --- |
 | 2025 – now | Assistant Manager – IT (Data & Analytics), Nilon's |
 | 2021 – 2024 | B.Sc. in Programming and Data Science, IIT Madras |
 | 2020 – 2022 | Academic Editor (Economics & Statistics), CACTUS Communications |
