@@ -39,18 +39,8 @@ What I enjoy most is the moment a chart makes obvious what a table of numbers ha
 | **Product recommenders** | Four generations, from market-basket rules to an XGBoost model that predicts which products each distributor will buy with 88% accuracy. | scikit-learn, XGBoost, mlxtend |
 | **Trade-scheme analysis** | Clustering, random forests, and ARIMA forecasting to test whether trade schemes work. | pandas, scikit-learn, statsmodels |
 
-## Academic Work
+## Professional History
 
-**LearnAI** · IIT Madras course project
-
-A full-stack learning portal that turns any YouTube playlist into an AI-assisted curriculum, with a tutor chatbot, quiz generator, code feedback, and transcript summaries from locally hosted LLMs. Model output is constrained to JSON schemas, so every response displays reliably.
-
-*Flask · Vue.js · MySQL · Ollama*
-
-## Path
-
-| When | What |
-| --- | --- |
 | 2025 – now | Assistant Manager – IT (Data & Analytics), Nilon's |
 | 2021 – 2024 | B.Sc. in Programming and Data Science, IIT Madras |
 | 2020 – 2022 | Academic Editor (Economics & Statistics), CACTUS Communications |
@@ -74,7 +64,7 @@ A full-stack learning portal that turns any YouTube playlist into an AI-assisted
 - **The History of Ideas** 
 I consider the history of ideas to be as important if not more than political and military history. Tracing the history of how humans see ourselves and our world goes a long way towards explaining how we behave as individuals and as a community. One of my favourite examples of this is Earthrise, a photograph from Apollo 8, the profound emotional impact it had on people, and how it changed how we saw the world and our beliefs about our place in the universe.
 - **The Classics** 
-Between them, Herodotus and Thucydides describe my job: tell a story people remember, and get it right.
+Between them, Herodotus and Thucydides describe my job: tell a story people remember, and maintain a rigorous dedication to the hard facts.
 - **Fantasy Fiction** 
 My love for literature manifests best when I dig deep into my favourite genre: high fantasy. I love how digging deeper into things far from modernity, historical settings, magic, and other worlds manages to reveal truths about ourselves and our societies in the most interesting ways. 
 
